@@ -30,4 +30,4 @@
   - `npm run watch`
 
 3. Create **.gitignore** file and type `node_modules`
-4. In HTML file, src will be `./dist/index.pack.js`
+4. In HTML file, `src` will be `./dist/index.pack.js`
